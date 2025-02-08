@@ -10,9 +10,5 @@
   "license": "Zlib",
   "type": "tool",
   "url" : "https://github.com/Narazaka/CopyPrefabOverrides.git",
-  "unity": "2022.3",
-  "vpmDependencies": {
-    "com.vrchat.avatars": ">=3.7.5",
-    "com.vrchat.worlds": ">=3.7.5"
-  }
+  "unity": "2022.3"
 }
